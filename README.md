@@ -19,6 +19,6 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 
 ## Link
-
+https://enxhis.github.io/Assignment5-SchedulePlanner/
 - - -
 © 2020 Enxhi Salaj 
