@@ -16,7 +16,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 @. Events persist when refreshing the page
 
 ## Screenshot
-
+![SchedulePlannerScreenshot](/Assets/SchedulePlannerScreenshot.png)
 
 ## Link
 https://enxhis.github.io/Assignment5-SchedulePlanner/
