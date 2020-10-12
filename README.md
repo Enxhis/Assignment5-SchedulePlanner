@@ -5,14 +5,23 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## Requirements
 @. Create a daily planner schedule
+
 @. Current Day is desplayed at the top of the page
+
 @. Presented with timeblocks for standard business hours 
+
 @. ColorCoded timeblocks
+
 @. Red color block means current time
+
 @. Green color block means future time
+
 @. Gray color block means past time
+
 @. Event can be entered in each time block
+
 @. When clicking the save button, the event is saved in local storage
+
 @. Events persist when refreshing the page
 
 ## Screenshot
